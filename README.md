@@ -5,7 +5,7 @@ Version: Beta 0.1
 ---
 
 ## Features ✨
-- 🍿 **Search**: Search for anime using Romaji and English names and get its complete information, including the order of watching related anime
+- 🍿 **Anime**: Search for anime using Romaji and English names and get its complete information, including the order of watching related anime
   - Description
   - Release Date
   - Genre
