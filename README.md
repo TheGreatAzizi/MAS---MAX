@@ -1,18 +1,16 @@
 # MAS - MAX : movie anime series (MAX.ver) 🎥
 
-A **C# Windows Forms Application** for searching and exploring anime movies and series. This app provides a simple and intuitive interface for anime enthusiasts to find detailed information about their favorite titles.
-
+A **C# Windows Forms Application** for searching and exploring anime movies and series!
+Version: Beta 0.1
 ---
 
 ## Features ✨
-- 🔍 **Search Anime**: Quickly search for anime movies and series by title.
-- 📜 **View Details**: Get detailed information about anime, including:
+- 🍿 **Search**: Search for anime using Romaji and English names and get its complete information, including the order of watching related anime
   - Description
   - Release Date
   - Genre
-  - Rating
-- ⭐ **Favorites**: Add your favorite anime to a list for quick access.
-- 🌐 **API Integration**: Fetch real-time data from an anime database (e.g., [MyAnimeList API](https://myanimelist.net/apiconfig) or [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/)).
+  - Rating and .....
+- 🌐 **API Integration**: Fetch real-time data from an anime database [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/)).
 
 ---
 
@@ -21,8 +19,6 @@ A **C# Windows Forms Application** for searching and exploring anime movies and 
 
 ---
 
-## Technologies Used 🛠️
-- **C#**: Backend logic and data processing.
-- **Windows Forms**: User interface design.
-- **REST API**: Fetching anime data.
-- **JSON**: Parsing and displaying API responses.
+## attention ⚠️
+**Due to the filtering of anilist website APIs in Iran, you must use a VPN**
+
