@@ -21,11 +21,11 @@ Version: Beta 0.1
 
 ## Screenshots 🖼️
 <p align="center">
-    <img src="./IMG/01.png" width="45%" />
-    <img src="./IMG/02.png" width="45%" />
-    <img src="./IMG/03.png" width="45%" />
-    <img src="./IMG/04.png" width="45%" />
-    <img src="./IMG/05.png" width="45%" />
+    <img src="./IMG/01.png" width="25%" />
+    <img src="./IMG/02.png" width="25%" />
+    <img src="./IMG/03.png" width="25%" />
+    <img src="./IMG/04.png" width="25%" />
+    <img src="./IMG/05.png" width="25%" />
 </p>
 
 
