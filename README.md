@@ -10,7 +10,7 @@ Version: Beta 0.1
   - Release Date
   - Genre
   - Rating and .....
-- 🌐 **API Integration**: Fetch real-time data from an anime database [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/)).
+- 🌐 **API Integration**: Fetch real-time data from an anime database [AniList API](https://anilist.gitbook.io/anilist-apiv2-docs/).
 
 ---
 
