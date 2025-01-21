@@ -31,6 +31,6 @@ Version: Beta 0.1
 
 ---
 
-## attention ⚠️
+## Note ⚠️
 **Due to the filtering of anilist website APIs in Iran, you must use a VPN**
 
