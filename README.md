@@ -14,6 +14,11 @@ Version: Beta 0.1
 
 ---
 
+## In the next update 📌
+ - 🎬 **Movies and series**: In the next update, we are trying to get the information about movies and serials of the world using the API of the OMDB site!
+
+---
+
 ## Screenshots 🖼️
 *Coming soon...*
 
