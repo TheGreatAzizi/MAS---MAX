@@ -1,4 +1,4 @@
-# Anime Search Application 🎥
+# MAS - MAX : movie anime series (MAX.ver) 🎥
 
 A **C# Windows Forms Application** for searching and exploring anime movies and series. This app provides a simple and intuitive interface for anime enthusiasts to find detailed information about their favorite titles.
 
