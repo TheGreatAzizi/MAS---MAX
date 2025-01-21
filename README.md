@@ -33,4 +33,5 @@ Version: Beta 0.1
 
 ## Note ⚠️
 **Due to the filtering of anilist website APIs in Iran, you must use a VPN**
+> You may need to install .net 8 to run
 
