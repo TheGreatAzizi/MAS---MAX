@@ -2,6 +2,11 @@
 
 A **C# Windows Forms Application** for searching and exploring anime movies and series!
 Version: Beta 0.1
+
+---
+
+**⏬[Download](https://github.com/TheGreatAzizi/MAS---MAX/releases/download/v0.1/MAS.-.MAX.exe)**
+
 ---
 
 ## Features ✨
